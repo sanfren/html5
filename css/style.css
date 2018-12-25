@@ -1,0 +1,13 @@
+body {
+	margin:0;
+}
+
+nav {
+	height:70px;
+	background-color:#999999;
+}
+
+footer {
+	height: 50px;
+	background-color:#CCCCCC;
+}
